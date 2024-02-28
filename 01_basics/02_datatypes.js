@@ -23,4 +23,5 @@ let isLoggedIn = false
 
  console.log(typeof null); // output is object
 console.log(typeof undefined); //output is undefined
+//  so yeah
 
