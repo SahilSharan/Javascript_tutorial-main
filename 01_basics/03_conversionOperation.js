@@ -14,7 +14,16 @@ let valueInNumber = Number(score)
 let isLoggedIn = ""
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // when "" then output is false
 // when "Sahil" then output is true
+
+
+// ********************Operations*************
+
+let value = 5
+let negValue = -value
+
+// console.log(negValue);
+
