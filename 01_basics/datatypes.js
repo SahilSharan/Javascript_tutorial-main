@@ -18,3 +18,13 @@ console.log( id === anotherId);  /*false*/
 const myFunction = function() {
 
 }
+
+
+// There are two types of memories. Stack(primitive), and Heap (Non primitive)
+
+let myAccountName = "sahilThakur"
+  var newAccount = myAccountName
+
+ 
+
+ console.log(newAccount);
