@@ -23,8 +23,11 @@ const myFunction = function() {
 // There are two types of memories. Stack(primitive), and Heap (Non primitive)
 
 let myAccountName = "sahilThakur"
-  var newAccount = myAccountName
+let  newAccount = myAccountName
+newAccount = "SameerThakur"
+passAccount = newAccount
 
  
 
  console.log(newAccount);
+ console.log(myAccountName);
