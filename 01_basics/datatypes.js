@@ -31,3 +31,5 @@ passAccount = newAccount
 
  console.log(newAccount);
  console.log(myAccountName);
+setCounter(prevCounter => prevCounter +1)
+
