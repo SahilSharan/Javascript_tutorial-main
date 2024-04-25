@@ -21,3 +21,4 @@ console.log(gameName.toUpperCase());
 
  console.log(jabbax);
  console.log(jabbax.trim);
+ console.log(jabbax);
